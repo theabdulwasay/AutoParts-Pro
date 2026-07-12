@@ -65,5 +65,7 @@ npm start
 
 ---
 
-*Developed by Abdul Wasay 
+Developed by Abdul Wasay 
+<img width="1897" height="813" alt="image" src="https://github.com/user-attachments/assets/f90fc3fa-7357-4b7a-9a3f-67baa572c051" />
+
 
